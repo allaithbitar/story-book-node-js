@@ -3,11 +3,11 @@
 ## technologies Used :
 
 - Express
-- handlebars
+- Handlebars
 - Typescript
 - MongoDB
-- passport
-- google Oauth2
+- Passport
+- Google Oauth2
 -
 
 ## Pre-requisities
