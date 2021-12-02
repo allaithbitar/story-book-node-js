@@ -25,7 +25,6 @@ authRouter.get(
   }
 );
 
-export default authRouter;
 
 //@desc Logout user
 //@route /auth/logout
@@ -33,3 +32,6 @@ authRouter.get("/logout", (req: Request, res: Response) => {
   req.logout();
   res.redirect("/");
 });
+
+export default authRouter;
+
